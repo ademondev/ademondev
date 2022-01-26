@@ -4,7 +4,7 @@
 - 🤖 Currently working on a Discord bot, Nare!
 - 🖥️ Learning React!
 - ✨ 2022 Goal: Finish Nare/Contribute to other DS bot projects
-- 🐞 Fun fact: Bugs chase me at night.
+- 🐞 Fun fact: Bugs don't let me sleep at night, I must fix them.
 
 ### Contact me! :
 
