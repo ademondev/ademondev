@@ -1,10 +1,7 @@
 ---
----
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=139C48&width=435&lines=Hey!+Welcome+to+my+profile;I+just+love+making+cool+stuff." alt="Typing SVG" /></a>
 ---
----
 
-<br/>
 
 ## I'm an engineering student who loves coding
 - 🤖 Currently working on web apps using React-TS
