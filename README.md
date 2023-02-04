@@ -1,6 +1,6 @@
 ---
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=139C48&width=435&lines=Hey!+Welcome+to+my+profile;I+just+love+making+cool+stuff." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=139C48&width=435&lines=Hey!+Welcome+to+my+profile;I+just+love+making+cool+stuff" alt="Typing SVG" /></a>
 ---
 ---
 
@@ -10,12 +10,12 @@
 - 🤖 Currently working on web apps using React-TS
 - 🖥️ Learning one bug at a time
 - ✨ 2023 Goal: Finish Nare, a Discord bot
-- 🐞 Fun fact: I can't sleep if there's a bug I couldn't fix. It happens more than what I'd like to admit
+- 🐞 Fact: I can't sleep if there's a bug I couldn't fix. It happens more than what I'd like to admit
 
 ### Contact me! :
 
-- Discord (best way): Raki#6677
-- Email: rakidevv@gmail.com
+- Email (best way): ademondev@gmail.com
+- Discord: Raki#6677
 
 ### Languages and Tools: 
 <br/>
