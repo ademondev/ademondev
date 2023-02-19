@@ -12,7 +12,7 @@
 ### Contact me! :
 
 - Email (best way): ademondev@gmail.com
-- Discord: Raki#6677
+- Discord: ademondev#1052
 
 ### Languages and Tools: 
 <br/>
