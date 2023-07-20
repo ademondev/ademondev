@@ -15,7 +15,7 @@
 - [LinkedIn](https://www.linkedin.com/in/alejandro-pedemonte-806131265/)
 - [Twitter](https://twitter.com/ademondev)
 - Discord: ademondev#1052
-- Looking for my portfolio? [Here](https://alejandro-pedemonte.netlify.app)
+- Looking for my portfolio? [Here](https://alejandro-pedemonte-portfolio.netlify.app)
 
 ### Read my blog! :
 - [Click me to go to my blog](https://ademondev-blog.vercel.app/)
